@@ -7,7 +7,7 @@
 
 - 👯 At the same time, i am student on **University of West Attica**
 
-- 👨‍💻 All of my projects are available here on GitHub [https://github.com/akisnoobotrolis/akisnoobotrolis](https://github.com/akisnoobotrolis/akisnoobotrolis)
+- 👨‍💻 All of my projects are available here on GitHub [https://github.com/akisnoobotrolis/akisnoobotrolis](https://github.com/akisnoobotrolis?tab=repositories)
 
 - 📫You can reach me **akisnoobotrolis@gmail.com** or **ice20390033@uniwa.gr** 
 
