@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available here on GitHub [https://github.com/akisnoobotrolis/akisnoobotrolis](https://github.com/akisnoobotrolis/akisnoobotrolis)
 
-- 📫You can reach me **ice20390033@uniwa.gr**
+- 📫You can reach me **akisnoobotrolis@gmail.com** or **ice20390033@uniwa.gr** 
 
 - 📄 Know about my experiences [https://github.com/akisnoobotrolis/akisnoobotrolis/blob/main/AthanasiosGenidouniasCV.pdf](https://github.com/akisnoobotrolis/akisnoobotrolis/blob/main/AthanasiosGenidouniasCV.pdf)
 
