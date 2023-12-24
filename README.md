@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Athanasios Genidounias</h1>
-<h3 align="center">A software Developer from Greece</h3>
+<h3 align="center">A Software Developer from Greece</h3>
 
 - 🔭 I’m currently working as Sword Group Employee on [MyEPO Portfolio](https://www.epo.org/en/applying/myepo-services/interact) and also on my personal Project [Preze-Forecast](https://preze-forecast.com)
 
